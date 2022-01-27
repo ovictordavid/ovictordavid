@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ovictordavid
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning [Python, computer science, machine learning]
-- 💞️ I’m looking to collaborate on data science field
+- 💞️ I’m looking a position as data scientist
 - 📫 How to reach me: victor.vdavid@gmail.com
 
 <!---
