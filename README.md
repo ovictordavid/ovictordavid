@@ -1,6 +1,6 @@
 # Sobre mim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Salve! Meu nome é Victor David, bioquímico/bioinformata doutor formado pela Universidade Federal do Rio de Janeiro (UFRJ) e atualmente cientista de dados em formação cursando Sistemas de Computação pela Universidade Federal Fluminense (UFF). Atualmente trabalho como estagiário em análise de dados na [UOL - Universo Online](https://www.uol.com.br/), a maior empresa brasileira de conteúdo online e serviços digitais. Previamente trabalhei como freelancer na [Coractium](https://www.coractium.com/) como Analista de Dados e desenvolvedor python. 
+Salve! Meu nome é Victor David, bioquímico/bioinformata doutor formado pela Universidade Federal do Rio de Janeiro (UFRJ) e atualmente cientista de dados em formação cursando Sistemas de Computação pela Universidade Federal Fluminense (UFF). Atualmente trabalho como analista de dados na [UOL - Universo Online](https://www.uol.com.br/), a maior empresa brasileira de conteúdo online e serviços digitais. Previamente trabalhei na startup [Coractium](https://www.coractium.com/) como Analista de Dados e desenvolvedor python. 
 
 Geralmente trabalho com análise e visualização de dados, e criação de modelos de Machine Learning voltado sempre à negócios. Às vezes faço algumas corridas aos finais de semana 😀. 
 
