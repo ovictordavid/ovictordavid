@@ -17,7 +17,6 @@ Se você gostaria de verificar alguns dos projetos que fiz utilizando análise e
 <h3 align="left"> :mailbox: Você também me encontra em: </h3>
 
 <p align="left">
-<a href="https://twitter.com/srdatapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srdatapy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/contactvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor_david" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/contactvictor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98326346/234162003-7e0cecca-dd82-4264-98e5-1fbca0f8e7ea.png" alt="victor_david" height="30" width="40" /></a>
 </p>
