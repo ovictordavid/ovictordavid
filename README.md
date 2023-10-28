@@ -12,7 +12,7 @@ Se você gostaria de verificar alguns dos projetos que fiz utilizando análise e
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovictordavid&repo=Projects)](https://github.com/ovictordavid/Projects)
 
-<a href="https://ovictordavid.github.io/VictorPortfolio/">Portfolio Website]</a>
+<a href="https://ovictordavid.github.io/VictorPortfolio/">Portfolio Website</a>
 
 ---
 
