@@ -1,14 +1,20 @@
-# Sobre mim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Salve! Meu nome é Victor David, bioquímico/bioinformata doutor formado pela Universidade Federal do Rio de Janeiro (UFRJ) e atualmente cientista de dados em formação cursando Sistemas de Computação pela Universidade Federal Fluminense (UFF). Atualmente trabalho como analista de dados na [UOL - Universo Online](https://www.uol.com.br/), a maior empresa brasileira de conteúdo online e serviços digitais. Previamente trabalhei na startup [Coractium](https://www.coractium.com/) como Analista de Dados e desenvolvedor python. 
+Hello! My name is Victor David. I hold a Ph.D. in biochemistry and bioinformatics from the Federal University of Rio de Janeiro (UFRJ). I also have a degree in Computer Systems from the Federal Fluminense University (UFF). Currently, I work as a data analyst at TIM BRASIL, the third-largest telecommunications company in Brazil. Previously, I worked at the startup Coractium and at UOL as an Analytics Engineer.
 
-Geralmente trabalho com análise e visualização de dados, e criação de modelos de Machine Learning voltado sempre à negócios. Às vezes faço algumas corridas aos finais de semana 😀. 
+My primary areas of expertise include data analysis, visualization, and data modeling with a business focus. Additionally, I enjoy going for runs on weekends! 😊
+
+French:
+
+Salut ! Je m’appelle Victor David. Je suis titulaire d’un doctorat en biochimie et bioinformatique de l’Université fédérale de Rio de Janeiro (UFRJ). J’ai également obtenu un diplôme en Systèmes de Calcul à l’Université fédérale Fluminense (UFF). Actuellement, je travaille en tant qu’analyste de données chez TIM BRASIL, la troisième plus grande entreprise de télécommunications au Brésil. Auparavant, j’ai travaillé chez la start-up Coractium et chez UOL en tant qu’ingénieur en analytique.
+
+Mes domaines d’expertise principaux incluent l’analyse de données, la visualisation et la modélisation de données axée sur les entreprises. De temps en temps, je fais quelques courses le week-end ! 😊
 
 --- 
 
-<h3 align="left"> 🔭 Projetos & Portfolio: </h3>
+<h3 align="left"> 🔭 Projects and Portfolio: </h3>
 
-Se você gostaria de verificar alguns dos projetos que fiz utilizando análise exploratória de dados, visualização e modelagem estatística no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos pessoais/profissionais recentes que ando fazendo (em constante desenvolvimento):
+If you’d like to check out some of the projects I’ve worked on, involving exploratory data analysis, visualization, and statistical modeling in general, you can explore this repository. It contains a list of my recent personal and professional works (constantly evolving):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovictordavid&repo=Projects)](https://github.com/ovictordavid/Projects)
 
@@ -16,7 +22,7 @@ Se você gostaria de verificar alguns dos projetos que fiz utilizando análise e
 
 ---
 
-<h3 align="left"> :mailbox: Você também me encontra em: </h3>
+<h3 align="left"> :mailbox: You can found me on: </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/contactvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor_david" height="30" width="40" /></a>
