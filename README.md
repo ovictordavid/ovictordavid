@@ -22,7 +22,7 @@ If you’d like to check out some of the projects I’ve worked on, involving ex
 
 ---
 
-<h3 align="left"> :mailbox: You can found me on: </h3>
+<h3 align="left"> :mailbox: You can reach me on: </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/contactvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor_david" height="30" width="40" /></a>
