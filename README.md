@@ -31,7 +31,7 @@ If you’d like to check out some of the projects I’ve worked on, involving ex
 
 
 ---
-<h3 align="left"> :hammer_and_wrench: Ferramentas:</h3>
+<h3 align="left"> :hammer_and_wrench: Tools:</h3>
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
