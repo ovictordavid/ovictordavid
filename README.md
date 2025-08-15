@@ -4,12 +4,6 @@ Hello! My name is Victor David. I hold a Ph.D. in biochemistry and bioinformatic
 
 My primary areas of expertise include data analysis, visualization, and data modeling with a business focus. Additionally, I enjoy going for runs on weekends! 😊
 
-French:
-
-Salut ! Je m’appelle Victor David. Je suis titulaire d’un doctorat en biochimie et bioinformatique de l’Université fédérale de Rio de Janeiro (UFRJ). J’ai également obtenu un diplôme en Systèmes de Calcul à l’Université fédérale Fluminense (UFF). Actuellement, je travaille en tant qu’analyste de données chez TIM BRASIL, la troisième plus grande entreprise de télécommunications au Brésil. Auparavant, j’ai travaillé chez la start-up Coractium et chez UOL en tant qu’ingénieur en analytique.
-
-Mes domaines d’expertise principaux incluent l’analyse de données, la visualisation et la modélisation de données axée sur les entreprises. De temps en temps, je fais quelques courses le week-end ! 😊
-
 --- 
 
 <h3 align="left"> 🔭 Projects and Portfolio: </h3>
